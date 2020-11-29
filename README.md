@@ -410,7 +410,7 @@ You can also set options in a `json-server.json` configuration file.
 }
 ```
 
-### Module
+
 
 If you need to add authentication, validation, or __any behavior__, you can use the project as a module in combination with other Express middlewares.
 
